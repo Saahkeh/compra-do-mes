@@ -1,13 +1,43 @@
-{
-  "itens": [
-    "Arroz",
-    "Feijão",
-    "Macarrao",
-    "Leite",
-    "Açucar",
-    "Carne",
-    "Iorgute",
-    "Papel Higienico",
-    "Sabonte",
-  ]
-}
+[
+  {
+    "nome": "Sabonete",
+    "preco": "2.50",
+    "quantidade": "6",
+    "unidade": "un"
+  },
+  {
+    "nome": "Arroz",
+    "preco": "35.99",
+    "quantidade": "2",
+    "unidade": "un"
+  }
+  ,
+  {
+    "nome": "Feijão",
+    "preco": "5.99",
+    "quantidade": "3",
+    "unidade": "un"
+  }
+  ,
+  {
+    "nome": "Laranja",
+    "preco": "2.00",
+    "quantidade": "2",
+    "unidade": "kg"
+  }
+  ,
+  {
+    "nome": "Carne",
+    "preco": "40.30",
+    "quantidade": "2",
+    "unidade": "kg"
+  }
+  ,
+  {
+    "nome": "Leite",
+    "preco": "3.99",
+    "quantidade": "5",
+    "unidade": "un"
+  }
+]
+
